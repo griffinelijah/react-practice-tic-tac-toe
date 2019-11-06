@@ -48,3 +48,15 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+
+.myButton {
+  color: white;
+  background: black; 
+  font-size: 14px; 
+  line-height: 14px; 
+  padding: 2px; 
+  border-radius: 10px; 
+}
+.myButton:hover {
+  background: green; 
+}
